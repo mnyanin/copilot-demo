@@ -1,2 +1,2 @@
 # copilot-demo
-A test project with GitHub Copilot
+GitHub Copilot demo project.
